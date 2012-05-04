@@ -2,4 +2,4 @@ contenu (modif) du premier fichier a envoyer sur le serveur
 
 2e ajout d'info
 
-3e ajout par le navigateur
+3e ajout par le navigateur bis
