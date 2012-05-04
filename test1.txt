@@ -1,1 +1,3 @@
 contenu (modif) du premier fichier a envoyer sur le serveur
+
+2e ajout d'info
