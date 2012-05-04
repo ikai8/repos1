@@ -3,3 +3,5 @@ contenu (modif) du premier fichier a envoyer sur le serveur
 2e ajout d'info
 
 3e ajout par le navigateur bis
+
+4e ajout depuis le P¨C
